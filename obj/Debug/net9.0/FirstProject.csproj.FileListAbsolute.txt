@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\bin\Debug\net9.0\FirstProject.exe
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\bin\Debug\net9.0\FirstProject.deps.json
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\bin\Debug\net9.0\FirstProject.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\bin\Debug\net9.0\FirstProject.dll
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\bin\Debug\net9.0\FirstProject.pdb
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.dll
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\refint\FirstProject.dll
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.pdb
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\FirstProject.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\Postech Fiap\Docker\FirstProject\obj\Debug\net9.0\ref\FirstProject.dll
