@@ -20,4 +20,10 @@ jobs:
       with:
         username: 'lourorafael'
         password: ${{ secrets.DOCKERHUB_PASSWORD }}
-          
+
+    - name: Build and push Docker images
+      uses: docker/build-push-action@v6.18.0
+      with:
+        context: . #dockerfile path (in this case is on the root)
+        tags: 'lourorafael/fiat-ghactions:latest'
+        push: true
